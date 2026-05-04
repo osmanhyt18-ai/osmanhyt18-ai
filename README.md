@@ -8,7 +8,7 @@ Mühendislik disiplini ile Flutter dünyasını birleştiriyorum. Karmaşık sor
 ## 🚀 Neler Yapıyorum?
 - **Frontend:** Flutter ile her ekrana uygun (Responsive) arayüzler.
 - **Backend:** Firebase mimarisi, Cloud Functions ve veri optimizasyonu.
-- **Vizyon:** "Fixy.app" gibi global potansiyelli projelerle servis sektörüne teknolojik çözümler.
+- **Vizyon:** "Fixy.app" gibi global potansiyelli projelerle servis sektörüne teknolojik çözümler. 
 
 ## 🛠️ Yetkinlik Seti
 | Mobil | Backend | Araçlar |

@@ -18,7 +18,7 @@ Mühendislik disiplini ile Flutter dünyasını birleştiriyorum. Karmaşık sor
 
 ## 📂 Projelerim
 - **Fixy.app:** Teknik servis yönlendirme ve arıza teşhis platformu (MVP aşamasında).
-- **StuMech** Makine Mühendisliği öğrencileri için statik-mukavemet hesap yapabilecekleri eğitici site.
+- **StuMech** Makine Müh. öğrencileri için statik-mukavemet hesap yapabilecekleri eğitici site.
 - **Yacht Hybrid Systems:** Enerji verimliliği üzerine teknik analiz ve veri çalışması.
 
 ---

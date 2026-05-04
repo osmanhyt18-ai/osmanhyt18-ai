@@ -1,16 +1,26 @@
-## Hi there 👋
+# Selam, ben Osman! 👋
 
-<!--
-**osmanhyt18-ai/osmanhyt18-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Mobile App Developer & Engineering Student
+Mühendislik disiplini ile Flutter dünyasını birleştiriyorum. Karmaşık sorunlara, performans odaklı ve şık mobil çözümler üretiyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Neler Yapıyorum?
+- **Frontend:** Flutter ile her ekrana uygun (Responsive) arayüzler.
+- **Backend:** Firebase mimarisi, Cloud Functions ve veri optimizasyonu.
+- **Vizyon:** "Fixy.app" gibi global potansiyelli projelerle servis sektörüne teknolojik çözümler.
+
+## 🛠️ Yetkinlik Seti
+| Mobil | Backend | Araçlar |
+| :--- | :--- | :--- |
+| Flutter / Dart | Firebase (Auth, Firestore) | Git / GitHub |
+| State Management | REST API Entegrasyonu | Postman |
+
+## 📂 Projelerim
+- **Fixy.app:** Teknik servis yönlendirme ve arıza teşhis platformu (MVP aşamasında).
+- **StuMech** Makine Mühendisliği öğrencileri için statik-mukavemet hesap yapabilecekleri eğitici site.
+- **Yacht Hybrid Systems:** Enerji verimliliği üzerine teknik analiz ve veri çalışması.
+
+---
+
+📫 **Bana Ulaşın:** www.linkedin.com/in/osman-hayta-b94087287
